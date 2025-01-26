@@ -1,0 +1,19 @@
+{
+    "title": "Review of Designing Data Intensive Applications",
+    "author": "Me",
+    "date": "2025-01-01",
+    "content": [
+        {
+            "heading": "Chapter One",
+            "content": "Some content will go here",
+            "images": [],
+            "image_captions": []
+        },
+        {
+            "heading": "Chapter Two",
+            "content": "Some content will go here",
+            "images": ["some_url"],
+            "image_captions": ["some_caption"]
+        }
+    ]
+}
