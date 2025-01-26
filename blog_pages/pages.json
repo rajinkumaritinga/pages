@@ -2,7 +2,12 @@
   {
     "json_name": "blog_one.json",
     "title": "Review of Designing Data Intensive Applications",
-    "author": "Me",
-    "date": "2025-01-01"
+    "img": "https://picsum.photos/800/450?random=1",
+    "tag": "Software Engineering",
+    "description":
+      "Overview of 'Designing data intensive applications'",
+    "authors": [
+      { "name": "Myself", "avatar": "/static/images/avatar/1.jpg" }
+    ]
   }
 ]
